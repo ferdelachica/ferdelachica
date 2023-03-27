@@ -1,6 +1,7 @@
 # Hola, mi nombre es Fernando de la chica 👋
 ### Junior Developer
 
+![https://github.com/ferdelachica](https://raw.githubusercontent.com/ferdelachica/ferdelachica/master/github-header.jpg)
 
 En 2016 empecé a formarme como developer en un estudio superior de administración de sistemas el cual complementaba de forma autodidacta profundizando en lenguajes de programación como Java, JavaScript, etc.
 
