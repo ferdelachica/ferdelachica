@@ -19,7 +19,7 @@ Actualmente me encuentro en búsqueda de un entorno donde seguir desarrollándom
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-47A248?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-4479A1?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=101010)]()
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-47A248?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 
