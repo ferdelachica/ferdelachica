@@ -24,7 +24,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F_delachica-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fdelachicamartos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fdelachica-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fdelachicamartos)
 </br>
 [![Web](https://img.shields.io/badge/Web-fdelachicamartos.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fdelachicamartos.com)
 
