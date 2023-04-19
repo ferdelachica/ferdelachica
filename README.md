@@ -7,7 +7,7 @@ En 2016 empecé a formarme como developer en un estudio superior de administraci
 
 En 2019 comencé a trabajar como Web Developer utilizando tecnologías CMS como Wordpress, Drupal y Prestashop y desarrollando en lenguajes de programación como JavaScript combinándolo con la gestión de base de datos con MySQL.
 
-En 2023 decidí dar un paso mas complementando mi formación inicial superior, empezando por refrescar JavaScript y aprendiendo sobre la plataforma ServiceNow, tras realizar todos los LearningPlans de la platagforma oficial, mi sueño de crecer como profesional en desarrollo de tecnología me animó seguir formándome con el curso de Harvard de Python & JavaScript, complementándolo con prácticas y retos almacenados en esta misma plataforma.
+En 2023 decidí dar un paso mas complementando mi formación inicial superior, empezando por refrescar JavaScript y aprendiendo sobre la plataforma ServiceNow, tras realizar todos los LearningPlans de la plataforma oficial, mi sueño de crecer como profesional en desarrollo de tecnología me animó seguir formándome con el curso de Harvard de Python & JavaScript, complementándolo con prácticas y retos almacenados en esta misma plataforma.
 
 Actualmente me encuentro en búsqueda de un entorno donde seguir desarrollándome como profesional y seguir aprendiendo como developer.
 
